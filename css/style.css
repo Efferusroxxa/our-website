@@ -42,23 +42,21 @@ top: 477px;
     gap: 40px;
     text-align: right;
     justify-content: end;
-    
-
   }
-  /* Navbar Section End */
 
-  /* Navbar Section Start */
-  .post{
-    width: 1420px;
-    margin: 2%;
-  }
-  #navbar2{
-    background-color: white;
+/* Post Section Starts */
+.top{
+
     display: flex;
     align-items: center;
-    gap: 40px;
+    gap: 100%;
     text-align: right;
-    justify-content: end;
-    
-  }
-  /* Navbar Section End */
+    justify-content: space-between;
+    font-size: larger;
+    word-spacing: 500px;
+
+}
+/* Post Section End */
+
+/* About Section Starts */
+/* About Section End */
