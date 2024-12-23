@@ -46,7 +46,7 @@ top: 477px;
 
 /* Post Section Starts */
 .top{
-
+    background: rgb(237, 247, 250);
     display: flex;
     align-items: center;
     gap: 100%;
@@ -58,5 +58,21 @@ top: 477px;
 }
 /* Post Section End */
 
-/* About Section Starts */
-/* About Section End */
+/* design Section Starts */
+.figma{
+position: absolute;
+width: 418px;
+height: 295px;
+left: 1080px;
+top: 664px;
+border-radius: 4px;
+background: rgb(255, 255, 255);
+}
+
+/* design Section End */
+
+/* Image Section Start */
+.images{
+
+}
+/* Image Section End */
