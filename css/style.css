@@ -56,6 +56,13 @@ top: 477px;
     word-spacing: 500px;
 
 }
+
+.view{
+
+  background: rgb(237, 247, 250);
+  display: flex;
+  
+}
 /* Post Section End */
 
 /* design Section Starts */
@@ -66,13 +73,35 @@ height: 295px;
 left: 1080px;
 top: 664px;
 border-radius: 4px;
-background: rgb(255, 255, 255);
+background: rgb(255, 255, 255);;
 }
 
 /* design Section End */
 
 /* Image Section Start */
-.images{
-
+.btn-2018{
+  border-radius: 16px;
+background: rgb(20, 40, 80);
+ display: flex;
+ align-items: center;
 }
+
+.last{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn-m2018{
+  border-radius: 16px;
+background: rgb(20, 40, 80);
+ display: flex;
+}
+.btn-2020{
+  border-radius: 16px;
+background: rgb(20, 40, 80);
+ display: flex;
+}
+
+
 /* Image Section End */
